@@ -1,1 +1,2 @@
 This is my first T3 session
+This session is on Git
